@@ -1,2 +1,2 @@
 # Password-Manager
-This is a password manager made using HTNL,CSS AND Javascript
+This is a password manager made using HTNL,CSS and Javascript
